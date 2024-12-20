@@ -1,0 +1,1 @@
+powershell -ExecutionPolicy Bypass -file ".\key_to_mail_win_10.ps1"
